@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="https://github.com/pvanand07">
-  <img  align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pvanand07&theme=github-compact&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,ruby,swift,kotlin,shell" />
+  <img  align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pvanand07&theme=github-compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,ruby,swift,kotlin,shell" />
   <img  align="center" height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=pvanand07&theme=github-compact"/>
   <img  align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pvanand07&theme=github-compact"/>
   
