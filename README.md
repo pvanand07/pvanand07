@@ -7,6 +7,7 @@
 💞️ I’m looking to collaborate on projects that involve using data and machine learning to solve problems and make a difference. I am open to working with others who share similar interests and goals.
 
 📫 You can reach me via my [Linkedin profile](https://www.linkedin.com/in/anandsivapv/). Feel free to reach out if you have any questions or if there is any way that I can help!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pvanand07&label=Profile%20views&color=0e75b6&style=flat" alt="pvanand07" /> </p>
 
 ## GitHub Analytics 
 
