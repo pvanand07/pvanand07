@@ -1,13 +1,21 @@
 # Hi there 👋 I am Anand Siva
 
-👀 I’m interested in data science ,machine learning, and AI and using these technologies to solve real-world problems and make a positive impact.
+👀 I’m interested in data science, machine learning, and building AI Powered software and automations
 
-🌱 I’m currently learning about various ML & AI algorithms, automated agents to retrieve information from internet and I am always seeking to improve my skills and knowledge in this field.
+🌱 I’m currently learning about various ML & AI algorithms, automated agents to retrieve information from internet.
 
-💞️ I’m looking to collaborate on projects that involve using data and machine learning to solve problems and make a difference. I am open to working with others who share similar interests and goals.
-
-📫 You can reach me via my [Linkedin profile](https://www.linkedin.com/in/anandsivapv/). Feel free to reach out if you have any questions or if there is any way that I can help!
+📫 You can reach me via my [Linkedin profile](https://www.linkedin.com/in/anandsivapv/). Feel free to reach out.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvanand07&label=Profile%20views&color=0e75b6&style=flat" alt="pvanand07" /> </p>
+
+Few of my projects
+
+[Resume Dashboard](https://resume-dashboard-iota.vercel.app/)
+
+- Where HR can upload candidates resumes for AI powered sorting and recommendations
+
+[Langraph Chat](https://github.com/pvanand07/langgraph-fastapi-starter-v2/tree/master)
+
+- Fastapi langgraph streaming backend + sqlite storage + document upload + HTML frontend
 
 ## GitHub Analytics 
 
@@ -22,4 +30,4 @@
 <!---
 pvanand07/pvanand07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---
